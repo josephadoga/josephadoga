@@ -1,4 +1,4 @@
-![](./assets/coding-glass.jpg)
+![](./assets/banner1.jpg)
 
 ### Hi there 👋
 
