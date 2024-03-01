@@ -1,6 +1,6 @@
 ![](./assets/banner1.png)
 
-### Hi there 👋
+## Hi there 👋
 
 ## About me
 As a passionate lover of God, a proficient computer user, and a versatile media personnel, I have honed my skills in various aspects of technology and creativity. With hands-on experience in programming languages such as Python, HTML, and CSS, I have successfully executed several projects using Arduino and worked as a Data Analyst using Microsoft Excel, Word, and PowerPoint.
