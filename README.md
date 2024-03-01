@@ -1,6 +1,5 @@
 ![](./assets/banner1.png)
 
-## Hi there 👋
 
 ## About me
 As a passionate lover of God, a proficient computer user, and a versatile media personnel, I have honed my skills in various aspects of technology and creativity. With hands-on experience in programming languages such as Python, HTML, and CSS, I have successfully executed several projects using Arduino and worked as a Data Analyst using Microsoft Excel, Word, and PowerPoint.
@@ -23,6 +22,7 @@ With my ability to combine technical skills with a creative mindset, I am confid
 <!--
 **josephadoga/josephadoga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+## Hi there 👋
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
