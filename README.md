@@ -17,6 +17,7 @@ With my ability to combine technical skills with a creative mindset, I am confid
 ![git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![fontawesome](https://img.shields.io/badge/Font_Awesome-339AF0?style=for-the-badge&logo=fontawesome&logoColor=white)
 
+## Stats
 [![Activity graph](https://github-readme-activity-graph.vercel.app/graph?username=josephadoga&theme=tokyo-night&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
