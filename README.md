@@ -1,3 +1,5 @@
+![](./assets/coding-glass.png)
+
 ### Hi there 👋
 
 <!--
