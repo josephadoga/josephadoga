@@ -1,4 +1,4 @@
-![](./assets/banner1low.png)
+![](./assets/banner1low.jpg)
 
 
 ## About me
