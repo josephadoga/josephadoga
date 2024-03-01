@@ -5,8 +5,6 @@
 ## About me
 As a passionate lover of God, a proficient computer user, and a versatile media personnel, I have honed my skills in various aspects of technology and creativity. With hands-on experience in programming languages such as Python, HTML, and CSS, I have successfully executed several projects using Arduino and worked as a Data Analyst using Microsoft Excel, Word, and PowerPoint.
 
-In addition, my expertise in video editing and media production has been demonstrated in various church events where I have utilized tools like EasyWorship, Vmix, and digital cameras to deliver outstanding visual content. As a skilled keyboardist, I have also contributed to the music ministry, playing the piano with passion and creativity.
-
 With my ability to combine technical skills with a creative mindset, I am confident in my ability to bring value to any team, and I am eager to explore new opportunities in the tech and media industry.
 
 ## Skills
