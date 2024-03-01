@@ -18,7 +18,11 @@ With my ability to combine technical skills with a creative mindset, I am confid
 ## Stats
 [![Activity graph](https://github-readme-activity-graph.vercel.app/graph?username=josephadoga&theme=tokyo-night&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-
+## Socials
+- [![facebook](https://img.shields.io/badge/facebook-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://facebook.com/adoga.joseph0)
+- [![instagram](https://img.shields.io/badge/instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/josephadoga_)
+- [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/josephadoga_)
+- [![linkedin](https://img.shields.io/badge/Linked_in-30363D?style=for-the-badge&logo=linked-ins&logoColor=#white)](https://linkedin.com/in/josephadoga/)
 
 <!--
 **josephadoga/josephadoga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
