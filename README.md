@@ -9,6 +9,8 @@ In addition, my expertise in video editing and media production has been demonst
 
 With my ability to combine technical skills with a creative mindset, I am confident in my ability to bring value to any team, and I am eager to explore new opportunities in the tech and media industry.
 
+[![Activity graph](https://github-readme-activity-graph.vercel.app/graph?username=josephadoga&theme=gotham&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 <!--
 **josephadoga/josephadoga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
