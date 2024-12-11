@@ -2,9 +2,11 @@
 
 
 ## About me
-As a passionate lover of God, a proficient computer user, and a versatile media personnel, I have honed my skills in various aspects of technology and creativity. With hands-on experience in programming languages such as Python, HTML, and CSS, I have successfully executed several projects using Arduino and worked as a Data Analyst using Microsoft Excel, Word, and PowerPoint.
+I am a dedicated Software Developer with a strong focus on frontend and backend development. My technical expertise spans across various programming languages, including Python, JavaScript, HTML, and CSS, where I have successfully executed numerous projects, with React.js, Arduino, ASP.NET amongst others. My experience also extends into data analysis, where I am proficient in tools such as SQL, ASP.NET, Excel, Access and PowerPoint for Pitch deck.
 
-With my ability to combine technical skills with a creative mindset, I am confident in my ability to bring value to any team, and I am eager to explore new opportunities in the tech and media industry.
+My unique ability to blend technical proficiency with creative thinking has been instrumental in my success across various projects. Whether it's developing robust frontend systems, analyzing complex data sets, or producing compelling media content, I am confident in my ability to bring significant value to any team.
+
+Having been volunteering as the Chief Technological Officer for a foundation dedicated to the career growth of young professionals across several industries, I understand the critical importance of precision, innovation, and collaboration. My software engineering skills have played a pivotal role in ensuring the seamless execution of various initiatives, and I am eager to continue exploring new opportunities in the tech and media industries.
 
 ## Skills
 ![html5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
